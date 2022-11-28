@@ -7,7 +7,7 @@
 #### El servidor le pedira por pantalla los valores a operar y la operacion a realizar
 
 #### NOTA: 
-    - Al realizar un calculo de numero **n** en la serie de Fibonacci por arriba de 45 el tiempo de respuesta empieza a ser considerable
+    - Al realizar un calculo de numero n en la serie de Fibonacci por arriba de 45 el tiempo de respuesta empieza a ser considerable
     - Al realizar la busqueda del numero primo por arriba del 2500000 el tiempo de respuesta empieza a ser considerable
 
 ### Luego de Iniciado el servidor y seteado los valores con su respectiva operacion
