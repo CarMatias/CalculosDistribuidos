@@ -17,5 +17,4 @@
 
 ### Respuesta esperada:
     - La sumatoria da como resultado
-        </br>
       xxxxxxx
